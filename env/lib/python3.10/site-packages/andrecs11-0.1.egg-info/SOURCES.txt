@@ -1,0 +1,7 @@
+setup.py
+andrecs11.egg-info/PKG-INFO
+andrecs11.egg-info/SOURCES.txt
+andrecs11.egg-info/dependency_links.txt
+andrecs11.egg-info/top_level.txt
+dev_aberto/__init__.py
+dev_aberto/dev_aberto.py

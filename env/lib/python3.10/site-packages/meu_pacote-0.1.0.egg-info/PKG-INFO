@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: meu-pacote
+Version: 0.1.0
+Summary: Uma descrição do meu pacote
+Home-page: UNKNOWN
+Author: AndreCorreaSantos
+Author-email: andrecs11@al.insper.edu.br
+License: UNKNOWN
+Platform: Windows
+Platform: Linux
+Platform: MacOS
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8, <=3.12
+
+UNKNOWN
+
