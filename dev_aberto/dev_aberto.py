@@ -7,7 +7,7 @@ from dateutil import parser
 
 def hello():
     
-    lang = os.environ.get('LANGUAGE', 'en_US').split(':')[0]
+    lang = os.environ.get('LANG', 'pt_BR').split(':')[0]
     locale.setlocale(locale.LC_ALL, lang)
 
     locale_path = os.path.join(os.path.dirname(__file__), 'locale')
