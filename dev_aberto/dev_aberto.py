@@ -11,7 +11,7 @@ def hello():
     locale.setlocale(locale.LC_ALL, lang)
 
     locale_path = os.path.join(os.path.dirname(__file__), 'locale')
-    translation = gettext.translation('dev_aberto', localedir=locale_path, languages=[lang], fallback=True)
+    translation = gettext.translation('messages', localedir=locale_path, languages=[lang], fallback=True)
     translation.install()
     _ = translation.gettext
 
